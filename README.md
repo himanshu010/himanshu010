@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/himanshu010/himanshu010/blob/master/2.gif" width="150px">
+<!--   <img src="https://github.com/himanshu010/himanshu010/blob/master/2.gif" width="150px"> -->
   <br><br>
   <samp>
     :wave: Hi! I am Himanshu Aswal
